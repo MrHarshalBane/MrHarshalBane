@@ -1,79 +1,90 @@
-<h1 align="center">Hey there, I'm Harshal 👋</h1>
-<h3 align="center">Engineering student @ TCET, Mumbai | Building things with code ⚙️</h3>
+<h1 align="center">⚡ HARSHAL BANE</h1>
+<p align="center"><b>Building the next generation of digital products.</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+%2B+Dart+Developer;AI+%26+ML+Enthusiast;Building+xyz_creator_platform+%F0%9F%9A%80;Always+shipping+something+new&center=true&width=500&height=45&color=F7A41D&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%9A%A1+Flutter+%2B+Dart+Architect;%F0%9F%A4%96+AI+%2F+ML+Enthusiast;%F0%9F%9A%80+Building+xyz_creator_platform;%F0%9F%92%BC+Shipping+Production-Grade+Code&center=true&width=500&height=45&color=F7A41D&vCenter=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshal-bane/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@kufounder"><img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/harshalbane9"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🎙️ The Brief
 
-- 🎓 Studying at **TCET, Mumbai**
-- 📍 Based in **Mumbai, India**
-- 💼 Currently looking for **internship opportunities**
-- 🛠️ Currently building **XYZ** — a creator platform inspired by YouTube & Instagram Reels
-- 🌾 Also working on **Crop Insurance Bridge**, digitizing crop insurance claims for farmers
-- 🤖 Exploring **AI/ML** — built a supply chain risk prediction system using Random Forest
-- 📺 I post on YouTube: [@kufounder](https://youtube.com/@kufounder)
+I don't just write code; I build platforms that people actually use. Currently an engineering student at **TCET, Mumbai**, bridging the gap between raw AI capabilities and polished, production-ready user experiences. Always shipping, always learning.
+
+*   🛠️ **Currently Engineering:** `XYZ` — A next-gen creator platform engineered for high-engagement media delivery, deeply inspired by the UX of YouTube and Instagram Reels.
+*   🌾 **Social Impact:** `Crop Insurance Bridge` — Modernizing legacy architecture to digitize crop insurance claims, turning complex paperwork into seamless flows for farmers.
+*   🤖 **AI/ML Focus:** Developed a supply chain risk prediction engine leveraging Random Forest algorithms to optimize logistics security.
+*   📺 **Content Creator:** Sharing the building process, tech deep-dives, and insights over at [@kufounder](https://youtube.com/@kufounder).
 
 ---
 
-### 💬 Let's Connect
+### 🧰 Tech Stack & Ecosystem
+
+Ah, got it! My bad, bhai. Here is **only** the single code block to copy. Absolutely no other text, no explanations, and no extra boxes below it. Just hit copy and paste:
+
+```markdown
+<h1 align="center">⚡ HARSHAL BANE</h1>
+<p align="center"><b>Building the next generation of digital products.</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshal-bane/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@kufounder" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://codolio.com/profile/harshalbane" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-6E56CF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="mailto:harshalbanework@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/harshalbane9" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=%E2%9A%A1+Flutter+%2B+Dart+Architect;%F0%9F%A4%96+AI+%2F+ML+Enthusiast;%F0%9F%9A%80+Building+xyz_creator_platform;%F0%9F%92%BC+Shipping+Production-Grade+Code&center=true&width=500&height=45&color=F7A41D&vCenter=true" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshal-bane/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@kufounder"><img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://twitter.com/harshalbane9"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🎙️ The Brief
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-</p>
+I don't just write code; I build platforms that people actually use. Currently an engineering student at **TCET, Mumbai**, bridging the gap between raw AI capabilities and polished, production-ready user experiences. Always shipping, always learning.
+
+*   🛠️ **Currently Engineering:** `XYZ` — A next-gen creator platform engineered for high-engagement media delivery, deeply inspired by the UX of YouTube and Instagram Reels.
+*   🌾 **Social Impact:** `Crop Insurance Bridge` — Modernizing legacy architecture to digitize crop insurance claims, turning complex paperwork into seamless flows for farmers.
+*   🤖 **AI/ML Focus:** Developed a supply chain risk prediction engine leveraging Random Forest algorithms to optimize logistics security.
+*   📺 **Content Creator:** Sharing the building process, tech deep-dives, and insights over at [@kufounder](https://youtube.com/@kufounder).
 
 ---
 
-### 📊 GitHub Stats
+### 🧰 Tech Stack & Ecosystem
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrHarshalBane&show_icons=true&theme=dark&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHarshalBane&layout=compact&theme=dark&hide_border=false" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrHarshalBane&theme=dark&hide_border=false" alt="streak stats" />
-</p>
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrHarshalBane&theme=matrix&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+Frontend & Mobile  │ Flutter ⚡ Dart ⚡ JavaScript ⚡ HTML5 / CSS3
+Backend & Data     │ Python ⚡ Firebase ⚡ AI/ML Ecosystem
+DevOps & Workflow  │ Git ⚡ GitHub Production Workflows
+
+```
 
 ---
+
+### 📊 Network & Performance Metrics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MrHarshalBane&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=F7A41D&icon_color=F7A41D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHarshalBane&layout=compact&theme=dark&hide_border=true&title_color=F7A41D" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MrHarshalBane&theme=dark&hide_border=true&stroke=F7A41D&ring=F7A41D&fire=F7A41D" alt="streak stats" />
+</p>
+
+<p align="center">
+  <a href="mailto:harshalbanework@gmail.com"><img src="https://img.shields.io/badge/Let's_Build_Something_Great_→-harshalbanework@gmail.com-F7A41D?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+```
