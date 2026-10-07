@@ -16,7 +16,7 @@ Mumbai, India • [LinkedIn](https://linkedin.com/in/harshal-bane) • [Email](m
 {
   "engineer": "Harshal Uttam Bane",
   "location": "Mumbai, India",
-  "education": "B.Tech in Information Technology, TCET Mumbai",
+  "education": "B.E. in Information Technology, TCET Mumbai",
   "domains": [
     "High-Performance Backend Systems & DSA",
     "Applied Machine Learning & Predictive Modeling",
