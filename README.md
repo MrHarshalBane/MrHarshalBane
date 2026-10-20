@@ -54,3 +54,19 @@ public class Harshal {
 
 ---
 
+## 🛠️ Tech Stack
+
+- **AI & Full-Stack Development:**
+  - **Languages & Frameworks:** Python, FastAPI / Flask, Node.js
+  - **AI / ML & LLMs:** PyTorch, Hugging Face, LangChain, RAG Pipelines, Vector DBs (Chroma/Pinecone)
+  - **Databases & DevOps:** PostgreSQL, MongoDB, Docker, Git
+
+- **Frontend Foundations:**
+  - HTML5, CSS3, JavaScript (ES6+), React.js
+
+- **Core Programming:**
+  - C, C++
+
+- **Currently Learning & Practicing:**
+  - **Data Structures & Algorithms:** Java (Arrays, Trees, Graphs, Dynamic Programming)
+
