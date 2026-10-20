@@ -8,10 +8,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/About-4F46E5?style=for-the-badge&logoColor=white"/></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0EA5E9?style=for-the-badge&logoColor=white"/></a>
-</p>
 
 ---
 
