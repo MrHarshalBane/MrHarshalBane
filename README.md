@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Harshal Bane - IT Engineering Student, Java Developer, Builder"/>
+  <img src="./hero.svg" width="100%" alt="Harshal Bane - IT Engineering Student, Java Developer, Builder"/>
 </p>
 
 <p align="center">
