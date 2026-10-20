@@ -54,21 +54,3 @@ public class Harshal {
 
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,html,css,js&theme=light" alt="Skills"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=130&section=footer&reversal=false" width="100%" alt="Footer"/>
-</p>
