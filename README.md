@@ -27,13 +27,11 @@ public class Harshal {
     String name       = "Harshal Uttam Bane";
     String college    = "TCET, Mumbai";
     String department = "Information Technology";
-    String year       = "Second Year (SE)";
 
-    String[] learning = { "Java Full Stack",
-                          "Data Structures & Algorithms" };
-    String[] loves    = { "Clean code",
-                          "Gamified learning",
-                          "Shipping projects" };
+
+    String[] learning = { 
+                          "Data Structures & Algorithms (DSA) in Java" };
+    String[] loves    = { "Clean code" };
 
     String motto() {
         return "Code it. Break it. Fix it. Ship it.";
@@ -46,9 +44,8 @@ public class Harshal {
 
 ### 🎯 Right now
 
-- 🔭 Building projects in **Java**
-- 🌱 Leveling up in **DSA** and **Java Full Stack**
-- 📝 Writing research on **gamified learning**
+- 🔭 Building projects
+- 🌱 Leveling up in **DSA** 
 - 🤝 Open to student and open-source collaboration
 
 </td>
